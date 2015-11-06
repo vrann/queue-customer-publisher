@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace Magento\QueueCustomer\Model\Plugin;
+namespace Magento\QueueCustomerPublisher\Model\Plugin;
 
 class AccountManagement
 {
