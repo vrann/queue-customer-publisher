@@ -1,6 +1,6 @@
 # Overview
 ## Purpose of module
-Publish message about customer being created to the Message Queue.
+Publish message about Customer is created to the Message Queue.
 
 # Deployment
 ## System requirements
